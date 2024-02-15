@@ -1,0 +1,7 @@
+1. Wyświetls dowolny text 5 razy uzywajac tylko jednej instrukcji print
+
+2. utwórz zmienne a i b wpisz do nich dowolne lczby wyświetl a + b i a - b
+
+3. program pobiera od uzytkownika dwie liczby a następnie wyswietla je i sumuje 
+
+4. Napisz program który obliczy ple powierzchni trapezu dla podanych podstaw oraz wysokości trapezu.
